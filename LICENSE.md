@@ -1,21 +1,21 @@
-The MIT License (MIT)
+MIT Lisansı (MIT)
 
-Copyright (c) 2011-2014 Dave Gamache
+Telif Hakkı (c) 2011-2014 Dave Gamache
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+İzinsiz kopyalanacak herhangi bir kişiye ücretsiz olarak izin verilir.
+bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım") ele alınması
+Yazılımda, kısıtlama olmaksızın haklar dahil
+kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, alt lisans vermek ve / veya satmak
+Yazılımın kopyaları ve Yazılımın
+aşağıdaki koşullara tabi olarak yapmak üzere döşenmiştir:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi,
+Yazılımın tüm kopyaları veya önemli kısımları.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+YAZILIM, HERHANGİ BİR TÜR, AÇIK VEYA GARANTİ OLMADAN, "OLDUĞU GİBİ" SUNULMAKTADIR
+SATILABİLİRLİK GARANTİLERİ SINIRLANMAMIŞTIRIYOR
+KATILIMCI AMAÇ VE ZARARSIZLIK İÇİN FİTNESS. ETKİLİ OLMAYAN
+YAZAR VEYA TELİF SAHİPLER HİÇBİR ZARAR, HASAR VE DİĞER
+ANLAŞMA, TORT VEYA DİĞER BİRLİKTE ETKİLİ SORUMLULUK,
+YAZILIMLA VEYA KULLANIM VEYA DİĞER AÇIKLAMALARLA BAĞLANTI YOKTUR
+YAZILIM.
