@@ -54,8 +54,6 @@ Yukarıdaki liste ayrıntılı değildir. Skeleton, yukarıdaki tarayıcıların
 Aşağıdaki topluluk tarafından inşa İskelet uzantılarıdır. Resmi olarak desteklenmiyorlar, ancak hepsi test edildi ve v2.0 ile uyumlu (tam sürüm notu):
 - [Skeleton Less üzerine](https://github.com/whatsnewsaes/Skeleton-less): Izgara, renk ve medya sorgularının daha kolay değiştirilmesi için LESS ile oluşturulmuş iskelet.
 - [Skeleton Sass üzerine](https://github.com/whatsnewsaes/Skeleton-Sass): Izgara, renk ve medya sorgularının daha kolay değiştirilmesi için Sass ile oluşturulmuş iskelet. 
-Burada görmek istediğiniz bir uzantınız var mı? Sadece uzantınızla birlikte hi@getskeleton.com adresine bir e-posta gönderin!
-
 
 ## Alındı
 
